@@ -1,0 +1,42 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design homepage wireframes",
+      "description": "Create low-fidelity wireframes for the new homepage",
+      "priority": "high",
+      "status": "in_progress",
+      "due_date": "2024-12-01",
+      "category": "design",
+      "estimated_hours": 8
+    },
+    {
+      "id": 2,
+      "title": "Review design system components",
+      "description": "Audit existing components and identify gaps",
+      "priority": "medium",
+      "status": "pending",
+      "due_date": "2024-12-03",
+      "category": "design_system",
+      "estimated_hours": 4
+    },
+    {
+      "id": 3,
+      "title": "Create user persona documentation",
+      "description": "Document primary user personas for the project",
+      "priority": "low",
+      "status": "completed",
+      "due_date": "2024-11-28",
+      "category": "research",
+      "estimated_hours": 6
+    }
+  ],
+  "categories": [
+    "design",
+    "research",
+    "prototyping",
+    "testing",
+    "design_system"
+  ],
+  "last_updated": "2025-07-18T13:09:52.239541"
+}

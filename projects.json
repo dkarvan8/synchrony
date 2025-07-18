@@ -1,0 +1,117 @@
+{
+  "projects": [
+    {
+      "id": "0bc65f24-b77e-4818-922f-c6c03513476a",
+      "title": "ai assistant",
+      "description": "This project includes building a conversational interface (text/voice), implementing task-specific modules (e.g., reminders, notes, web search), and integrating APIs like OpenAI, calendar services, and internal databases. Emphasis is placed on user experience, responsiveness, and secure data handling.",
+      "team_lead": "shriya",
+      "members": [
+        "alice",
+        "bob",
+        "katty"
+      ],
+      "tasks": [
+        {
+          "id": "049e6456-4533-4358-8b97-de01b4ffbec3",
+          "title": "Design chat UI ",
+          "assignee": "bob",
+          "status": "In Progress",
+          "deadline": "2025-07-22",
+          "priority": "Medium",
+          "category": "Design",
+          "parent_id": null,
+          "created": "2025-07-18 11:33:51.215407"
+        }
+      ]
+    },
+    {
+      "id": "4caf91c6-be4a-482a-a44d-72fd287074d1",
+      "title": "app dev",
+      "description": "create an app for cgi client",
+      "team_lead": "leela",
+      "members": [
+        "deekshitha"
+      ],
+      "tasks": [
+        {
+          "id": "ccdcd4d7-dbc8-4f0a-a3a4-b24cc8d9bdf4",
+          "title": "ui design",
+          "assignee": "deekshitha",
+          "status": "Complete",
+          "deadline": "2025-07-18",
+          "priority": "Low",
+          "category": "",
+          "parent_id": null,
+          "created": "2025-07-18 12:25:17.308139"
+        }
+      ]
+    },
+    {
+      "id": "e8dc88fb-81c6-4ebc-af49-75705f6a56fc",
+      "title": "To do list tracker",
+      "description": "",
+      "team_lead": "Prachi",
+      "members": [
+        "Lalitya"
+      ],
+      "tasks": [
+        {
+          "id": "9d75e59c-2787-4858-81ba-58e67716ec14",
+          "title": "Create dashboard",
+          "assignee": "Lalitya",
+          "status": "Complete",
+          "deadline": "2025-07-18",
+          "priority": "Low",
+          "category": "",
+          "parent_id": null,
+          "created": "2025-07-18 12:44:04.688247"
+        }
+      ]
+    },
+    {
+      "id": "368ec633-0597-4fc6-b0fd-c987f1407244",
+      "title": "Ai Assistant",
+      "description": "Ai Assistant",
+      "team_lead": "Lalitya",
+      "members": [
+        "Lalitya",
+        "Prachi"
+      ],
+      "tasks": [
+        {
+          "id": "5699122a-11cc-4234-b1b1-266a2cf940f5",
+          "title": "Create daskboard",
+          "assignee": "Lalitya",
+          "status": "Complete",
+          "deadline": "2025-07-18",
+          "priority": "High",
+          "category": "Frontend",
+          "parent_id": null,
+          "created": "2025-07-18 12:50:12.962042"
+        }
+      ]
+    },
+    {
+      "id": "ceb89aef-3e83-4216-bec0-dcf8d2ffe743",
+      "title": "ai assistant 2.0",
+      "description": "ai chatbot for cgi ",
+      "team_lead": "prashanth",
+      "members": [
+        "elya"
+      ],
+      "tasks": [
+        {
+          "id": "d9d5a85f-3d62-4f26-a4e7-b4b28539b23a",
+          "title": "designing ui",
+          "assignee": "elya",
+          "status": "In Progress",
+          "deadline": "2025-07-19",
+          "priority": "Medium",
+          "category": "",
+          "parent_id": null,
+          "created": "2025-07-18 13:42:47.602790"
+        }
+      ]
+    }
+  ]
+}

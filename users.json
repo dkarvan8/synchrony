@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "deekshitha",
+      "email": "karvandeekshitha2005@gmail.com",
+      "password": "Karvan"
+    },
+    {
+      "name": "prachi",
+      "email": "prachi@gmail.com",
+      "password": "prachi"
+    },
+    {
+      "name": "Lalitya",
+      "email": "lalitya@gmail.com",
+      "password": "lalitya"
+    }
+  ]
+}
